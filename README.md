@@ -2,7 +2,7 @@
 # birthday-v2-main
 
 ## Demo Link
-[https://maaz-webdeveloper.github.io/birthday-v2-main/](https://maaz-webdeveloper.github.io/birthday-v2-main/)
+https://maaz-webdeveloper.github.io/birthday-v2-main/
 
 ## Features
 
