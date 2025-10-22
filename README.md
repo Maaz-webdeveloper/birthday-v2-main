@@ -2,8 +2,7 @@
 # birthday-v2-main
 
 ## Demo Link
-https://maaz-webdeveloper.github.io/birthday-v2-main/
-
+https://vercel.com/maaz-webdevelopers-projects/birthday-v2-main/ALs2ytzveth3fQxz9a7WoYg62Eu2
 ## Features
 
 - Plays background music with a user gesture when required by the browser.
